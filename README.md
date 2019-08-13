@@ -1,6 +1,6 @@
-# Google-NewsStand-Animation-Android
+﻿# Google-NewsStand-Animation-Android
 
-Navigation pattern like in Google News Stand app with transitions
+Navigation pattern like in Google News Stand app with lol
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Google%20NewsStand%20Animation%20Android-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/7154)
 
